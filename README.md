@@ -3,7 +3,7 @@
 # aur-updater
 
 <div align="center">
-    <img src="logo.png" alt="Logo" width="160" height="80">
+    <img src="logo.png" alt="Logo" width="160" height="120">
 </div>
 
 <details>
